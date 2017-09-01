@@ -1,0 +1,17 @@
+{
+  "name": "open-ecommerce/oe-ng-filter",
+  "description": "Angular plugin based in atsf",
+  "keywords": ["wordpress", "plugin", "angular", "filter"],
+  "homepage": "http://www.open-ecommerce.org",
+  "license": "GPL3",
+  "authors": [
+    {
+      "name": "open-ecommerce.org",
+      "email": "info@open-ecommerce.org",
+      "homepage": "http://www.open-ecommerce.org"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+  }
+}
